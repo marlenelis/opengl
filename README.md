@@ -1,4 +1,5 @@
 # Opengl
 
-Informática Gáfica
+Informática Gáfica.
+
 1. Práctica 1
